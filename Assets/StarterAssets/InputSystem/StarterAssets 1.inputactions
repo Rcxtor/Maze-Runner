@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "name": "StarterAssets",
+    "name": "StarterAssets 1",
     "maps": [
         {
             "name": "Player",
@@ -37,24 +37,6 @@
                     "name": "Sprint",
                     "type": "PassThrough",
                     "id": "980e881e-182c-404c-8cbf-3d09fdb48fef",
-                    "expectedControlType": "",
-                    "processors": "",
-                    "interactions": "",
-                    "initialStateCheck": false
-                },
-                {
-                    "name": "Interact",
-                    "type": "Button",
-                    "id": "b94a2f37-2ece-4e19-a296-815a1c72a231",
-                    "expectedControlType": "",
-                    "processors": "",
-                    "interactions": "",
-                    "initialStateCheck": false
-                },
-                {
-                    "name": "Flashlight",
-                    "type": "Button",
-                    "id": "fb3af162-b4f3-4859-bd23-8e41e85088d8",
                     "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
@@ -235,28 +217,6 @@
                     "processors": "",
                     "groups": "Gamepad",
                     "action": "Sprint",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "8a2becdf-bc2c-48d2-b9bc-ac9cd3d2c7f4",
-                    "path": "<Keyboard>/e",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": ";KeyboardMouse",
-                    "action": "Interact",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "b2bbb2c3-ad69-459a-828a-5837c68c1ba6",
-                    "path": "<Keyboard>/f",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": ";KeyboardMouse",
-                    "action": "Flashlight",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
